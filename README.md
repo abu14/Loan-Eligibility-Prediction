@@ -5,16 +5,26 @@ I'm a Machine Learning Engineer / Data Analyst
 
 Currently working as a Data Analytics Developer.
 
-# Overview
+🚀 Loan Eligibility Prediction Project
 
-Welcome to my loan eligibility prediction project! This project includes start to finsih the process of preparating and training a customer data to and utilizes a logistic regression model to predict whether or not a customer should be **eligibile** for a bank loan. 
+Welcome to my loan eligibility prediction project! Here, I take you on a journey from raw data to an intelligent solution that predicts whether a customer qualifies for a home loan. Using a logistic regression model, this project makes the process of loan approvals faster, smarter, and more reliable.
 
-The model delivers accurate predictions, offering valuable recomendation for professionals for making informed decisions.
+📖 Overview
+
+Dream Housing Finance Company operates across urban, semi-urban, and rural areas, offering home loans to customers. When someone applies for a loan, their eligibility is determined based on details like income, credit history, education, and more. This project automates that decision-making process by identifying customers who are most likely to be eligible—helping the company save time and target the right audience.
+
+🤔 Why It Matters
+This project doesn’t just crunch numbers; it empowers businesses to make informed decisions faster, improving both customer experience and operational efficiency.
+
+🌟 Key Features
+Handles data preprocessing, including encoding, scaling, and missing value treatment.
+Provides real-time predictions for customer loan eligibility.
+Simple, interpretable, and scalable for real-world applications.
 
 
 ## Demo
 
-![Image](https://github.com/user-attachments/assets/84c85e96-42d4-45a4-856e-615abd8d6c6e)
+![Image](https://github.com/user-attachments/assets/6a3884ff-b408-4a30-bfda-00ba6ece4df1)
 
 
 ## Tools Used
