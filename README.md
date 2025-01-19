@@ -14,7 +14,7 @@ The model delivers accurate predictions, offering valuable recomendation for pro
 
 ## Demo
 
-![dashboard](https://github.com/user-attachments/assets/ff124e6e-f0f5-477e-8e22-21e4a53dc471)
+![Image](https://github.com/user-attachments/assets/84c85e96-42d4-45a4-856e-615abd8d6c6e)
 
 
 ## Tools Used
